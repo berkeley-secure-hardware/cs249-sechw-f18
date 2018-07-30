@@ -3,25 +3,24 @@
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <!-- th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th -->
-      <!-- th style="width: 25%;"><img src="http://people.eecs.berkeley.edu/~krste/k.jpg" alt="Krste Asanović"></th -->
-      <!-- th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dkohlbre/dkohlbre-pic.jpg" alt="David Kohlbrenner"></th -->
+      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 25%;"><img src="http://people.eecs.berkeley.edu/~krste/k.jpg" alt="Krste Asanović"></th>
+      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dkohlbre/dkohlbre-pic.jpg" alt="David Kohlbrenner"></th>
       </tr>
   </thead>
   <tbody>
     <tr>
-      <!-- td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td -->
-      <!-- td><a href="https://people.eecs.berkeley.edu/~krste/">Krste Asanović</a></td -->
-      <!-- td><a href="https://people.eecs.berkeley.edu/~dkohlbre/">David Kohlbrenner</a></td -->
+      <td><a href="https://people.eecs.berkeley.edu/~dawnsong/">Dawn Song</a></td>
+      <td><a href="https://people.eecs.berkeley.edu/~krste/">Krste Asanović</a></td>
+      <td><a href="https://people.eecs.berkeley.edu/~dkohlbre/">David Kohlbrenner</a></td>
     </tr>
     <tr>
-      <!-- td>Professor, <a href="https://eecs.berkeley.edu/">EECS</a></td -->
-      <!-- td>Professor, <a href="https://eecs.berkeley.edu/">EECS</a></td -->
-      <!-- td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td -->
+      <td>Professor, <a href="https://eecs.berkeley.edu/">EECS</a></td>
+      <td>Professor, <a href="https://eecs.berkeley.edu/">EECS</a></td>
+      <td>Postdoc, <a href="https://eecs.berkeley.edu/">EECS</a></td>
     </tr>
   </tbody>
 </table>
-
 
 ## Teaching Assistant
 
@@ -29,7 +28,7 @@
 
 **Time**: Monday 10:00--11:30 am
 
-**Location**: Soda ???
+**Location**: Soda 405
 
 ## Office Hours
 
@@ -38,7 +37,7 @@
 
 To receive announcements on information about the course please sign
 up for the [public mailing
-list](https://groups.google.com/forum/#!forum/cs-294-???-f18-all) for
+list](https://groups.google.com/forum/#!forum/cs-294-156-f18-all) for
 future announcements. You can add yourself to the list by clicking the
 link and "Join group". Be sure to be signed in to your Google account.
 
