@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: "CS294-???: Advanced Topics on Secure Hardware"
+description: Fall 2018
+show_downloads: false
+github:
+  is_project_page: false
