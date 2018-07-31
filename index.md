@@ -22,7 +22,8 @@
   </tbody>
 </table>
 
-## Teaching Assistant
+## Volunteer Teaching Assistant
+Volunteer TA: Dayeol Lee
 
 ## Lectures
 
@@ -32,6 +33,7 @@
 
 ## Office Hours
 
+TBD
 
 ## Piazza and Mailing List
 
@@ -40,6 +42,8 @@ up for the [public mailing
 list](https://groups.google.com/forum/#!forum/cs-294-156-f18-all) for
 future announcements. You can add yourself to the list by clicking the
 link and "Join group". Be sure to be signed in to your Google account.
+
+Piazza TBD
 
 ## Course description
 TBD
@@ -193,9 +197,9 @@ a paper/report on the project.
 ## Grading
 
 <ul>
-  <li>??% class participation</li>
-  <li>??% weekly reading assignment</li>
-  <li>??% project</li>
+  <li>20% class participation</li>
+  <li>20% weekly reading assignment</li>
+  <li>60% project</li>
 </ul>
 
 ## Enrollment information
@@ -206,8 +210,6 @@ form](https://docs.google.com/forms/d/e/1FAIpQLScskMACikbExvLm1Pbhf6AeIj0F6-ZXWA
 students will be given instructor codes to register for the
 class. Decisions for admission will be released on a rolling
 basis. Due to limited space, please apply as soon as possible.
-
-## Supplemental Reading
 
 ## Frequently Asked Questions
 
