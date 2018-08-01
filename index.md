@@ -46,7 +46,26 @@ link and "Join group". Be sure to be signed in to your Google account.
 Piazza TBD
 
 ## Course description
-TBD
+
+Secure hardware is an increasing part of all system designs, from TPMs
+in every laptop to hardware/software enclaves in every
+phone. Different types of secure hardware must make different security
+and performance tradeoffs and contend with different adversaries.  We
+will discuss current and classic research papers in the area, as well
+as state of the art deployed designs. We will have a special focus on
+the development of hardware enclaves: secure hardware components
+designed to support verifiable and trusted execution of programs
+remotely.
+
+The course is 3-units, and will consist of several research paper
+readings per week, in-class discussions of the papers, and a large
+course project per project group.
+
+We require that students have taken at least one architecture course
+previously, and strongly recommend that students have a background in
+relevant security topics.
+
+
 
 ## Syllabus
 <table style="table-layout: fixed; font-size: 88%;">
