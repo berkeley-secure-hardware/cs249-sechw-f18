@@ -3,8 +3,8 @@
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
-      <th style="width: 25%;"><img src="http://people.eecs.berkeley.edu/~krste/k.jpg" alt="Krste Asanović"></th>
+      <th style="width: 33%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 33%;"><img src="http://people.eecs.berkeley.edu/~krste/k.jpg" alt="Krste Asanović"></th>
       <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dkohlbre/dkohlbre-pic.jpg" alt="David Kohlbrenner"></th>
       </tr>
   </thead>
@@ -229,8 +229,6 @@ form](https://docs.google.com/forms/d/e/1FAIpQLScskMACikbExvLm1Pbhf6AeIj0F6-ZXWA
 students will be given instructor codes to register for the
 class. Decisions for admission will be released on a rolling
 basis. Due to limited space, please apply as soon as possible.
-
-## Frequently Asked Questions
 
 ## Additional Notes
 
