@@ -3,9 +3,9 @@
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 25%;"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
-      <th style="width: 25%;"><img src="http://people.eecs.berkeley.edu/~krste/k.jpg" alt="Krste Asanović"></th>
-      <th style="width: 25%;"><img src="https://cseweb.ucsd.edu/~dkohlbre/2016_dkpic.png" alt="David Kohlbrenner"></th>
+      <th style="width: 25%;"><img height="200px" src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" alt="Dawn Song"></th>
+      <th style="width: 25%;"><img height="200px" src="http://people.eecs.berkeley.edu/~krste/k.jpg" alt="Krste Asanović"></th>
+      <th style="width: 25%;"><img height="200px" src="https://cseweb.ucsd.edu/~dkohlbre/2016_dkpic.png" alt="David Kohlbrenner"></th>
       </tr>
   </thead>
   <tbody>
