@@ -81,122 +81,100 @@ relevant security topics.
   <tbody>
     <tr>
       <td>08/27</td>
-      <td>TOPIC</td>
-      <td>
-      </td>
+      <td>Secure Hardware guest lecture</td>
       <td></td>
+      <td>Guest lecture by Paul Kocher</td>
       <td></td>
     </tr>
     <tr>
       <td>09/03</td>
       <td>No Class, Labor Day</td>
-      <td>      </td>
-      <td>
-      </td>
+      <td>Start on 9/10 readings</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>09/10</td>
-      <td>TOPIC</td>
-      <td>
-      </td>
-      <td>
-        </td>
+      <td>Enclaves I</td>
+      <td></td>
+      <td>Deployed enclaves</td>
       <td>Team Formation Due 09/10</td>
     </tr>
     <tr>
       <td>09/17</td>
-      <td>TOPIC</td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td>Enclaves II</td>
+      <td></td>
+      <td>The uses of enclaves</td>
       <td></td>
     </tr>
     <tr>
       <td>09/24</td>
-      <td>TOPIC</td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td>Side channel attacks on hardware</td>
+      <td></td>
+      <td></td>
       <td>Project Proposals Due 09/27</td>
     </tr>
     <tr>
       <td>10/01</td>
-      <td>TOPIC</td>
-      <td>
-      </td>
+      <td>Side channel defenses</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>10/08</td>
-      <td>TOPIC</td>
-      <td>
-      </td>
+      <td>Memory models for secure hardware</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>10/15</td>
-      <td>TOPIC</td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td>Trusted boot and TPMs</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>10/22</td>
-      <td>TOPIC</td>
-      <td>
-      </td>
+      <td>Physical and glitch attacks</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>10/29</td>
-      <td>TOPIC</td>
-      <td>
-      </td>
+      <td>Formal verification of hardware</td>
+      <td></td>
       <td></td>
       <td>Project Progress Report Due 10/29</td>
     </tr>
     <tr>
       <td>11/05</td>
       <td>TOPIC</td>
-      <td>
-      </td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>11/12</td>
       <td>No Class, Veterans Day</td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>11/19</td>
-      <td>TOPIC</td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td>Physical constraints of building hardware</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>11/26</td>
       <td>Project Presentations</td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td></td>
+      <td></td>
       <td>Project Report Due 11/30</td>
     </tr>
   </tbody>
