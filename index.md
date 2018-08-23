@@ -96,7 +96,9 @@ relevant security topics.
     <tr>
       <td>09/10</td>
       <td>Enclaves I</td>
-      <td></td>
+      <td><ul><li><a href="https://eprint.iacr.org/2016/086.pdf"> Intel SGX Explained </a><br>
+       Sections 1, 4, 5.1-5.4, 5.6, 5.8</li>
+      <li><a href="http://infocenter.arm.com/help/topic/com.arm.doc.prd29-genc-009492c/PRD29-GENC-009492C_trustzone_security_whitepaper.pdf"> ARM TrustZone whitepaper</a><br>Pages 3-1 to 3-16 </td></li></ul>
       <td>Deployed enclaves</td>
       <td>Team Formation Due 09/10</td>
     </tr>
