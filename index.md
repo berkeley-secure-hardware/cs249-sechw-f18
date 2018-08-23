@@ -193,7 +193,7 @@ Students will also form project groups and complete a research
 project. The final project/deliverable will be a team presentation and
 a paper/report on the project.
 
-Some project ideas availalbe [here](projects.html)
+Some project ideas available [here](projects.html)
 
 ## Grading
 
