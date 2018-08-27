@@ -43,7 +43,7 @@ list](https://groups.google.com/forum/#!forum/cs-294-156-f18-all) for
 future announcements. You can add yourself to the list by clicking the
 link and "Join group". Be sure to be signed in to your Google account.
 
-Piazza TBD
+[Piazza](https://piazza.com/class/jlbppizryjy74k)
 
 ## Course description
 
@@ -105,7 +105,8 @@ relevant security topics.
     <tr>
       <td>09/17</td>
       <td>Enclaves II</td>
-      <td></td>
+      <td><ul><li></li>
+      <li></li></ul></td>
       <td>The uses of enclaves</td>
       <td></td>
     </tr>
@@ -113,7 +114,7 @@ relevant security topics.
       <td>09/24</td>
       <td>Side channel attacks on hardware</td>
       <td></td>
-      <td></td>
+      <td>David</td>
       <td>Project Proposals Due 09/27</td>
     </tr>
     <tr>
