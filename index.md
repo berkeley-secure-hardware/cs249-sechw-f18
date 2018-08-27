@@ -65,7 +65,7 @@ We require that students have taken at least one architecture course
 previously, and strongly recommend that students have a background in
 relevant security topics.
 
-
+Course intro [slides](cs294-156-f18-overview.pdf).
 
 ## Syllabus
 <table style="table-layout: fixed; font-size: 88%;">
