@@ -104,50 +104,50 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     </tr>
     <tr>
       <td>09/17</td>
-      <td>Enclaves II</td>
-      <td><ul><li></li>
-      <li></li></ul></td>
-      <td>The uses of enclaves</td>
+      <t>dSide channel attacks on hardware</td>
+      <td><ul><a href="https://foreshadowattack.eu/">Foreshadow + Foreshadow-NG</a> (-NG is short, read both!)<li></li>
+      <li></li><a href="https://vvdveen.com/publications/drammer.pdf"> Drammer: Deterministic Rowhammer Attacks on Mobile Platforms</a></ul></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>09/24</td>
-      <td>Side channel attacks on hardware</td>
+      <td>Side channel defenses</td>
       <td></td>
-      <td>David</td>
+      <td></td>
       <td>Project Proposals Due 09/27</td>
     </tr>
     <tr>
       <td>10/01</td>
-      <td>Side channel defenses</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>10/08</td>
       <td>Memory models for secure hardware</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>10/15</td>
+      <td>10/08</td>
       <td>Trusted boot and TPMs</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>10/22</td>
+      <td>10/15</td>
       <td>Physical and glitch attacks</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>10/29</td>
+      <td>10/22</td>
       <td>Formal verification of hardware</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10/29</td>
+      <td>TOPIC</td>
       <td></td>
       <td></td>
       <td>Project Progress Report Due 10/29</td>
