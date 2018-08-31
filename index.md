@@ -106,7 +106,7 @@ Course intro [slides](cs294-156-f18-overview.pdf).
       <td>09/17</td>
       <td>Side channel attacks on hardware</td>
       <td><ul><li><a href="https://foreshadowattack.eu/">Foreshadow + Foreshadow-NG</a> (-NG is short, read both!)</li>
-      <li><a href="https://vvdveen.com/publications/drammer.pdf"> Drammer: Deterministic Rowhammer Attacks on Mobile Platforms</a></li></ul></td>
+      <li><a href="https://vvdveen.com/publications/drammer.pdf"> Drammer</a>: Deterministic Rowhammer Attacks on Mobile Platforms</li></ul></td>
       <td></td>
       <td></td>
     </tr>
