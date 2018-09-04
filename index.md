@@ -115,50 +115,52 @@ Course intro [slides](cs294-156-f18-overview.pdf).
       <td>09/24</td>
       <td>Side channel defenses</td>
       <td></td>
-      <td>      <a href="https://goo.gl/forms/k2JyUkzZ3GGI3wit2">Discussion Questions</a> 9/21</td>
-      <td>Project Proposals Due 09/27</td>
+      <td></td>
+      <td>Project Proposals Due 09/27<br>
+       <a href="https://goo.gl/forms/k2JyUkzZ3GGI3wit2">Discussion Questions</a> 9/21</td>
     </tr>
     <tr>
       <td>10/01</td>
       <td>Memory models for secure hardware</td>
       <td></td>
-      <td>      <a href="https://goo.gl/forms/eTb81mwr1fsshfcO2">Discussion Questions</a> 9/28</td>
       <td></td>
+      <td>      <a href="https://goo.gl/forms/eTb81mwr1fsshfcO2">Discussion Questions</a> 9/28</td>
     </tr>
     <tr>
       <td>10/08</td>
       <td>Trusted boot and TPMs</td>
       <td></td>
-      <td>      <a href="https://goo.gl/forms/hdDOExBTxZB5jJR62">Discussion Questions</a> 10/5</td>
       <td></td>
+      <td>      <a href="https://goo.gl/forms/hdDOExBTxZB5jJR62">Discussion Questions</a> 10/5</td>
     </tr>
     <tr>
       <td>10/15</td>
       <td>Physical and glitch attacks</td>
       <td></td>
-      <td>      <a href="https://goo.gl/forms/Rw6lcJZzCg30QaCQ2">Discussion Questions</a> 10/12</td>
       <td></td>
+      <td>      <a href="https://goo.gl/forms/Rw6lcJZzCg30QaCQ2">Discussion Questions</a> 10/12</td>
     </tr>
     <tr>
       <td>10/22</td>
       <td>Formal verification of hardware</td>
       <td></td>
-      <td>      <a href="https://goo.gl/forms/sETLhwfMPRSuWm7i2">Discussion Questions</a> 10/19</td>
       <td></td>
+      <td>      <a href="https://goo.gl/forms/sETLhwfMPRSuWm7i2">Discussion Questions</a> 10/19</td>
     </tr>
     <tr>
       <td>10/29</td>
       <td>TOPIC</td>
       <td></td>
-      <td>      <a href="https://goo.gl/forms/OjuYaBVU4Zd11tQ23">Discussion Questions</a> 10/26</td>
-      <td>Project Progress Report Due 10/29</td>
+      <td></td>
+      <td>Project Progress Report Due 10/29<br>
+      <a href="https://goo.gl/forms/OjuYaBVU4Zd11tQ23">Discussion Questions</a> 10/26</td>
     </tr>
     <tr>
       <td>11/05</td>
       <td>TOPIC</td>
       <td></td>
-      <td>      <a href="https://goo.gl/forms/sl0ZKPLR3bd07MWN2">Discussion Questions</a> 11/2</td>
       <td></td>
+      <td>      <a href="https://goo.gl/forms/sl0ZKPLR3bd07MWN2">Discussion Questions</a> 11/2</td>
     </tr>
     <tr>
       <td>11/12</td>
@@ -171,8 +173,8 @@ Course intro [slides](cs294-156-f18-overview.pdf).
       <td>11/19</td>
       <td>Physical constraints of building hardware</td>
       <td></td>
-      <td>      <a href="https://goo.gl/forms/MmMMj03WhCdOFVDR2">Discussion Questions</a> 11/16</td>
       <td></td>
+      <td>      <a href="https://goo.gl/forms/MmMMj03WhCdOFVDR2">Discussion Questions</a> 11/16</td>
     </tr>
     <tr>
       <td>11/26</td>
