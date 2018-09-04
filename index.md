@@ -100,7 +100,8 @@ Course intro [slides](cs294-156-f18-overview.pdf).
        Sections 1, 4, 5.1-5.4, 5.6, 5.8</li>
       <li><a href="http://infocenter.arm.com/help/topic/com.arm.doc.prd29-genc-009492c/PRD29-GENC-009492C_trustzone_security_whitepaper.pdf"> ARM TrustZone whitepaper</a><br>Pages 3-1 to 3-16 </li></ul></td>
       <td>Deployed enclaves</td>
-      <td>Team Formation Due 09/10</td>
+      <td>Team Formation Due 09/10<br>
+      <a href="https://goo.gl/forms/WocFXgnNgXpJAWmV2">Discussion Questions</a> 9/7</td>
     </tr>
     <tr>
       <td>09/17</td>
@@ -189,6 +190,10 @@ Course intro [slides](cs294-156-f18-overview.pdf).
 This is a paper reading and project class. Each week, students are
 expected to complete reading assignments before class and participate
 actively in class discussion.
+
+Students must submit a set of questions or ideas for discussion about
+the assigned papers, due Friday at noon before class. Submit weekly
+questions to the form linked in the deadlines section for that week.
 
 Students will also form project groups and complete a research
 project. The final project/deliverable will be a team presentation and
