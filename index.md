@@ -33,7 +33,7 @@ Volunteer TA: Dayeol Lee
 
 ## Office Hours
 
-TBD
+Contact David as needed. (dkohlbre@berkeley.edu)
 
 ## Piazza and Mailing List
 
