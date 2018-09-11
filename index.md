@@ -114,11 +114,11 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     <tr>
       <td>09/24</td>
       <td>Side channel defenses</td>
-      <td></td>
       <td><ul><li><a href="https://ieeexplore.ieee.org/abstract/document/6237011/">TimeWarp</a></li>
       <li><a href="https://eprint.iacr.org/2018/418.pdf">DAWG</a>: A Defense Against Cache Timing Attacks in Speculative Execution Processors</li>
       <li>OPTIONAL: <a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_costan.pdf">Sanctum</a></li></ul></td>
-      <td>Project Proposals Due 09/27<br>
+      <td></td>
+<td>Project Proposals Due 09/27<br>
        <a href="https://goo.gl/forms/k2JyUkzZ3GGI3wit2">Discussion Questions</a> 9/21</td>
     </tr>
     <tr>
