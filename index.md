@@ -205,6 +205,8 @@ a paper/report on the project.
 
 Some project ideas available [here](projects.html)
 
+[Proposal guidelines](Project-proposal-reqs.pdf), submit proposal [here](https://goo.gl/forms/eJFsKlzFJ2ujGH1H3).
+
 ## Grading
 
 <ul>
