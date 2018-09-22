@@ -123,8 +123,10 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     </tr>
     <tr>
       <td>10/01</td>
-      <td>Memory models for secure hardware</td>
-      <td></td>
+      <td>DRAM for secure hardware</td>
+      <td><ul><li><a href="https://eprint.iacr.org/2016/204.pdf">SGX Memory Encryption</a> (Sec 4 may be challenging, don't worry too much)</li>
+      <li><a href="https://users.ece.utexas.edu/~tiwari/pubs/CCS-13-phantom.pdf">PHANTOM</a>: Practical Oblivious Computation in a Secure Processor</li>
+      <li>OPTIONAL: <a href="https://people.eecs.berkeley.edu/~krste/papers/phantom-carl2013.pdf">PHANTOM Memory controller</a></li></ul></td>
       <td></td>
       <td>      <a href="https://goo.gl/forms/eTb81mwr1fsshfcO2">Discussion Questions</a> 9/28</td>
     </tr>
