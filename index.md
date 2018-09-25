@@ -122,6 +122,14 @@ Course intro [slides](cs294-156-f18-overview.pdf).
        <a href="https://goo.gl/forms/k2JyUkzZ3GGI3wit2">Discussion Questions</a> 9/21</td>
     </tr>
     <tr>
+      <td>09/27 : 10am</td>
+      <td>Office Hours on Speculative Attacks</td>
+      <td>Bring any papers you have questions on!</td>
+      <td>Location TBD</td>
+      <td></td>
+    </tr>
+
+    <tr>
       <td>10/01</td>
       <td>DRAM for secure hardware</td>
       <td><ul><li><a href="https://eprint.iacr.org/2016/204.pdf">SGX Memory Encryption</a> (Sec 4 may be challenging, don't worry too much)</li>
@@ -146,14 +154,14 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     </tr>
     <tr>
       <td>10/22</td>
-      <td>Formal verification of hardware</td>
+      <td>TOPIC</td>
       <td></td>
       <td></td>
       <td>      <a href="https://goo.gl/forms/sETLhwfMPRSuWm7i2">Discussion Questions</a> 10/19</td>
     </tr>
     <tr>
       <td>10/29</td>
-      <td>TOPIC</td>
+      <td>Formal verification of hardware</td>
       <td></td>
       <td></td>
       <td>Project Progress Report Due 10/29<br>
