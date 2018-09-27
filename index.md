@@ -125,7 +125,7 @@ Course intro [slides](cs294-156-f18-overview.pdf).
       <td>09/27 : 10am</td>
       <td>Office Hours on Speculative Attacks</td>
       <td>Bring any papers you have questions on!</td>
-      <td>Location TBD</td>
+      <td>Location Soda 580</td>
       <td></td>
     </tr>
 
