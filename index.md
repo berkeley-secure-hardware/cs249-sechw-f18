@@ -150,10 +150,10 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     </tr>
     <tr>
       <td>10/15</td>
-      <td>NO CLASS</td>
+      <td>No class, ADEPT lab outing</td>
       <td></td>
       <td></td>
-      <td>      <a href="https://goo.gl/forms/Rw6lcJZzCg30QaCQ2">Discussion Questions</a> 10/12</td>
+      <td></td>
     </tr>
     <tr>
       <td>10/22</td>
