@@ -140,9 +140,11 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     </tr>
     <tr>
       <td>10/08</td>
-      <td>Trusted boot and TPMs</td>
+      <td>GPUs</td>
       <td></td>
-      <td></td>
+      <td><ul><li><a href="papers/graviton-distributable.pdf">Graviton</a></li>
+      <li>OPTIONAL: <a href="https://www.vusec.net/wp-content/uploads/2018/05/glitch.pdf">Grand Pwning Unit</a></li>
+      <li>OPTIONAL: <a href="http://www.cs.ucr.edu/~nael/pubs/ccs18.pdf">Rendered Insecure</a></li></ul></td>
       <td>      <a href="https://goo.gl/forms/hdDOExBTxZB5jJR62">Discussion Questions</a> 10/5</td>
     </tr>
     <tr>
@@ -154,7 +156,7 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     </tr>
     <tr>
       <td>10/22</td>
-      <td>TOPIC</td>
+      <td>Trusted boot and TPMs</td>
       <td></td>
       <td></td>
       <td>      <a href="https://goo.gl/forms/sETLhwfMPRSuWm7i2">Discussion Questions</a> 10/19</td>
