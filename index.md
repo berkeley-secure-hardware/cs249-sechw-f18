@@ -150,7 +150,7 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     </tr>
     <tr>
       <td>10/15</td>
-      <td>Physical and glitch attacks</td>
+      <td>NO CLASS</td>
       <td></td>
       <td></td>
       <td>      <a href="https://goo.gl/forms/Rw6lcJZzCg30QaCQ2">Discussion Questions</a> 10/12</td>
@@ -172,7 +172,7 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     </tr>
     <tr>
       <td>11/05</td>
-      <td>TOPIC</td>
+      <td>Physical and glitch attacks</td>
       <td></td>
       <td></td>
       <td>      <a href="https://goo.gl/forms/sl0ZKPLR3bd07MWN2">Discussion Questions</a> 11/2</td>
