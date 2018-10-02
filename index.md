@@ -157,7 +157,7 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     </tr>
     <tr>
       <td>10/22</td>
-      <td>Trusted boot and TPMs</td>
+      <td></td>
       <td></td>
       <td></td>
       <td>      <a href="https://goo.gl/forms/sETLhwfMPRSuWm7i2">Discussion Questions</a> 10/19</td>
