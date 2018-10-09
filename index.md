@@ -157,9 +157,10 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     </tr>
     <tr>
       <td>10/22</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Mitigation of side-channels and speculative attacks</td>
+      <td><ul><li><a href="https://dl.acm.org/citation.cfm?id=3214297">Spectres, virtual ghosts, and hardware support</a></li>
+      <li><a href="https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-dong.pdf">Shielding Software From Privileged Side-Channel Attacks</a></li></ul></td>
+      <td>John Criswell</td>
       <td>      <a href="https://goo.gl/forms/sETLhwfMPRSuWm7i2">Discussion Questions</a> 10/19</td>
     </tr>
     <tr>
