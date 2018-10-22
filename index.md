@@ -169,7 +169,7 @@ Course intro [slides](cs294-156-f18-overview.pdf).
       <td><ul><li><a href="https://people.eecs.berkeley.edu/~sseshia/pubdir/ccs17.pdf">A Formal Foundation for Secure Remote Execution of Enclaves</a></li>
       <li><a href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_costan.pdf">Sanctum</a></li></ul></td>
       <td>Sanjit Seshia</td>
-      <td>Project Progress Report Due 10/29<br>
+      <td><a href="Project-status-reqs.pdf">Project Progress Report</a> Due 10/29 - <a href="https://goo.gl/forms/lWWGWXSlqxjCypiA3">here</a><br><br>
       <a href="https://goo.gl/forms/OjuYaBVU4Zd11tQ23">Discussion Questions</a> 10/26</td>
     </tr>
     <tr>
