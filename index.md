@@ -175,7 +175,8 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     <tr>
       <td>11/05</td>
       <td>Physical and glitch attacks</td>
-      <td></td>
+      <td><ul><li><a href="http://static.usenix.org/events/smartcard99/full_papers/kommerling/kommerling.pdf">Design Principles for Tamper-Resistant Smartcard Processors</a></li>
+      <li><a href="https://eprint.iacr.org/2004/100.pdf">The Sorcerer’s Apprentice Guide to Fault Attacks</a></li></ul></td>
       <td></td>
       <td>      <a href="https://goo.gl/forms/sl0ZKPLR3bd07MWN2">Discussion Questions</a> 11/2</td>
     </tr>
