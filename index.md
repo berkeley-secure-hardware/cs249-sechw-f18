@@ -189,8 +189,9 @@ Course intro [slides](cs294-156-f18-overview.pdf).
     </tr>
     <tr>
       <td>11/19</td>
-      <td>Physical constraints of building hardware</td>
-      <td></td>
+      <td>FPGA remote physical side channels</td>
+      <td><ul><li><a href="https://www.cs.ox.ac.uk/files/9835/fpga.pdf">Leaky Wires: Information Leakage and Covert Communication Between FPGA Long Wires</a></li>
+      <li><a href="https://cpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/7/89/files/2018/04/SP2018-FPGA-2m12dnp.pdf">FPGA-Based Remote Power Side-Channel Attacks</a></li></ul></td>
       <td></td>
       <td>      <a href="https://goo.gl/forms/MmMMj03WhCdOFVDR2">Discussion Questions</a> 11/16</td>
     </tr>
