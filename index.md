@@ -199,7 +199,7 @@ Course intro [slides](cs294-156-f18-overview.pdf).
       <td>11/26</td>
       <td>Project Presentations</td>
       <td></td>
-      <td></td>
+      <td>Instructions for paper and presentation <a href="Project-report-presentation.pdf">here</a></td>
       <td>Project Report Due 11/30</td>
     </tr>
   </tbody>
@@ -223,6 +223,8 @@ a paper/report on the project.
 Some project ideas available [here](projects.html)
 
 [Proposal guidelines](Project-proposal-reqs.pdf), submit proposal [here](https://goo.gl/forms/eJFsKlzFJ2ujGH1H3).
+
+Paper and presentation instructions <a href="Project-report-presentation.pdf">here</a>.
 
 ## Grading
 
